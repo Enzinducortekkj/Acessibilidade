@@ -3,7 +3,7 @@
 
 :root {
     --laranja-claro: #FF862A;
-    --alto-contraste-fundo: #000000;
+    --alto-contraste-fundo: #dbd5d5;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ffd700;
 }
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #070707;
 }
 
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #0e0e0e;
+    background-color: #ffffff;
 
 }
 
